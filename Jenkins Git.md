@@ -27,19 +27,21 @@ Click on green triangle
 
 
 
-![image](https://github.com/Asma09Akram/Jenkins/assets/124654068/9325150a-71bc-4177-a770-1b594e54b5a3)
 
-give branch as main as given in the repo
-
-![image](https://github.com/Asma09Akram/Jenkins/assets/124654068/4b826db6-20d1-4893-8d59-737655c8d109)
-
-
-Task 2. Create another project named as Demo 1 as Freestyle project
+### Task 2. Create another project named as Demo 1 as Freestyle project
 
 Under Source Code Management
 select Git, paste the repo url in the space
 
 ![image](https://github.com/Asma09Akram/Jenkins/assets/124654068/644a612b-1c2a-447b-a12d-c4a37a4400b4)
+
+
+
+![image](https://github.com/Asma09Akram/Jenkins/assets/124654068/9325150a-71bc-4177-a770-1b594e54b5a3)
+
+give branch as main as given in the repo
+
+![image](https://github.com/Asma09Akram/Jenkins/assets/124654068/4b826db6-20d1-4893-8d59-737655c8d109)
 
 
 
