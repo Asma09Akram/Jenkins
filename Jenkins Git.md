@@ -2,7 +2,12 @@
 
 ![image](https://github.com/Asma09Akram/Jenkins/assets/124654068/a0a1ed08-2e4e-4f4e-89f7-1fde191b3504)
 
-2. Under the 
+2. Go down to Build Steps and click on Execute shell
+
+write the following code, here when the build will generate it will clone the Github repo DemoProject and it will go inside DemoProject folder and then read the
+contents of README.md and index.md
+
+
 ```
 echo "Hello from Demo 3 Project"
 ls
